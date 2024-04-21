@@ -1,0 +1,13 @@
+# basic
+setuptools>=65.5.1
+pip>=9.0.1
+azure-mgmt-resource     
+azure-mgmt-storage      
+azureml-dataprep        
+azureml-dataprep-native 
+azureml-dataprep-rslex  
+Flask                   
+interpret-core          
+ipykernel               
+numba                   
+numpy                  
